@@ -3,13 +3,14 @@
 // @namespace   https://github.com/Nuklon
 // @author      Nuklon
 // @license     MIT
-// @version     1.0.0
+// @version     1.0.1
 // @description Create a summary of your Steam licenses.
-// @include *://store.steampowered.com/account/licenses
+// @include     *://store.steampowered.com/account/licenses/
 // @require     https://code.jquery.com/jquery-3.3.1.min.js
 // @homepageURL https://github.com/Nuklon/Steam-License-Counter
-// @downloadURL https://raw.githubusercontent.com/Nuklon/Steam-License-Counter/master/code.user.js
-// @updateURL   https://raw.githubusercontent.com/Nuklon/Steam-License-Counter/master/code.user.js
+// @downloadURL https://raw.githubusercontent.com/Joseahfer/Steam-License-Counter/master/code.user.js
+// @updateURL   https://raw.githubusercontent.com/Joseahfer/Steam-License-Counter/master/code.user.js
+// ==/UserScript==
 (function($) {
     $.noConflict(true);
 
